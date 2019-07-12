@@ -1353,6 +1353,8 @@ $('#btn').on('click', function(){alert('测试')});
 * [360安全浏览器开发文档](http://open.se.360.cn/open/extension_dev/overview.html)
 * [360极速浏览器Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
 * [Chrome扩展开发极客系列博客](http://www.cnblogs.com/champagne/p/)
+* [Chrome 插件: 启动本地应用 Native messaging](https://blog.csdn.net/nicolas_008/article/details/38238955)
+* [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
 
 ## 附图
 
